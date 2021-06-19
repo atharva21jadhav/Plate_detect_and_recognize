@@ -1,4 +1,4 @@
-##Notes:
+## Notes:
 This Code has been modified for recognizing [Indian Number Plates](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_India).
 The Indian Number plate has certain constraints which can utilised different models which can be separately used to recognize the characters from the plate.
 Also, it is necessary to perform pre-processing on the image in order to boost the accuracy.
